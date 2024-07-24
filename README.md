@@ -47,6 +47,22 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswn0125)](https://solved.ac/profile/tjswn0125)
 
+### Blog
+<div style="display: flex; justify-content: center; align-items: center;>
+  
+  <div>
+    
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mimimya)](https://velog.io/@mimimya)
+  
+  </div>
+  <div>
+    
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mimimya)](https://velog.io/@mimimya)
+  
+  </div>
+  
+</div>
+
 ### 💖 Latest project
 ### 간편 카드결제 웹 서비스 구현
 **결제 시 가장 혜택을 많이 받을 수 있는 카드를 추천**
