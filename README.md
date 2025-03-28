@@ -24,6 +24,7 @@
 
 **🛠️ Infra and Tools**
 
+![selenium](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white)
