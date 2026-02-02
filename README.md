@@ -47,7 +47,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswn0125)](https://solved.ac/profile/tjswn0125)
 
 ### Blog
-<div style="display: flex; justify-content: center; align-items: center;>
+<div href="https://velog.io/@mimimya" style="display: flex; justify-content: center; align-items: center;>
   
   <div>
     
