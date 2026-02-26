@@ -42,9 +42,8 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimimya&layout=compact&cache_seconds=30)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimimya&theme=tokyonight&hide_border=true)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswn0125)](https://solved.ac/profile/tjswn0125)
-
 ### Blog
 <div href="https://velog.io/@mimimya" style="display: flex; justify-content: center; align-items: center;>
   
