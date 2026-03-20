@@ -61,6 +61,5 @@
 </div>
 
 ### 💖 Latest project
-### 간편 카드결제 웹 서비스 구현
-**결제 시 가장 혜택을 많이 받을 수 있는 카드를 추천**
-(https://github.com/eAZy-Pay)
+### BE) 오더의 민족
+[배달 주문 관리 플랫폼](https://github.com/pepero-yami/omin_be)
