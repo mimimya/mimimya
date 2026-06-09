@@ -62,4 +62,4 @@
 
 ### 💖 Latest project
 ### BE) Pagely
-[독서모임 + 중고거래 플랫폼 (인증/인가, 유저)]([https://github.com/pepero-yami/omin_be](https://github.com/Pagely-wisely))
+[독서모임 + 중고거래 플랫폼 (인증/인가, 유저)](https://github.com/Pagely-wisely)
