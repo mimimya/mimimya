@@ -61,5 +61,5 @@
 </div>
 
 ### 💖 Latest project
-### BE) 오더의 민족
-[배달 주문 관리 플랫폼](https://github.com/pepero-yami/omin_be)
+### BE) Pagely
+[독서모임 + 중고거래 플랫폼 (인증/인가, 유저)]([https://github.com/pepero-yami/omin_be](https://github.com/Pagely-wisely))
